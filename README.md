@@ -38,5 +38,5 @@ The container images are published to [dockerhub](https://hub.docker.com/u/besti
 
 # Cross compile in CRDE Rust Container
 
-Cross-compile Rust to Linux, Windows, Musl container, WASI and WASM with CRDE container 
-[cross_compile_rust_container](https://github.com/CRDE-Containerized-Rust-Dev-Environment/cross_compile_rust_container)
+Cross-compile Rust to Linux, Windows, Musl container, WASI and WASM with CRDE container  
+[cross_compile_rust_container](https://github.com/CRDE-Containerized-Rust-Dev-Environment/cross_compile_rust_container)  
