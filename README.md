@@ -33,5 +33,10 @@ I chose Debian, because it is stable, but probably everything works in other fla
 Tutorial for creating and using CRDE - Containerized Rust Development Environment.  
 Rust - Hack Without Fear and Trust!  
 I regularly create new container images when new version of cargo and rustc are released.  
-The container images are published to [dockerhub](https://hub.docker.com/).  
+The container images are published to [dockerhub](https://hub.docker.com/u/bestiadev).  
 [docker_rust_development](https://github.com/CRDE-Containerized-Rust-Dev-Environment/docker_rust_development)
+
+# Cross compile in CRDE Rust Container
+
+Cross-compile Rust to Linux, Windows, Musl container, WASI and WASM with CRDE container 
+[cross_compile_rust_container](https://github.com/CRDE-Containerized-Rust-Dev-Environment/cross_compile_rust_container)
