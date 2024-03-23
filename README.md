@@ -45,3 +45,9 @@ The container images are published to [DockerHub](https://hub.docker.com/u/besti
 
 Cross-compile Rust to Linux, Windows, Musl container, WASI and WASM with CRUSTDE container  
 [cross_compile_rust_container](https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/cross_compile_rust_container)  
+
+## File Workflow for backups for CRUSTDE
+
+Development files are important. We don't want to lose them because of a mishap. Some details abount my workflow for backup:
+
+<https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/github_dropbox_external_drive>
