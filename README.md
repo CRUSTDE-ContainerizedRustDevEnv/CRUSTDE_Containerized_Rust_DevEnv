@@ -22,6 +22,11 @@ This is a very opinionated guide to creating a development environment from scra
 I make acrobatics with files all day long. I could not live without TotalCommander.  
 [total_commander_best_file_manager](https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/total_commander_best_file_manager)
 
+## Windows: Git, git-bash, SSH and VSCode
+
+These Windows utils I use for CRUSTDE: git, git-bash, SSH, VSCode.  
+[win_git_git-bash_ssh_VSCode](https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/win_git_git-bash_ssh_VSCode)
+
 ## Win10 contains WSL2 that contains Debian11
 
 Tutorial to install Linux on Windows. Linux everywhere!  
