@@ -1,6 +1,6 @@
 # CRUSTDE - Containerized Rust Development Environment
 
-***CRUSTDE - Containerized Rust Development Environment in Linux on bare metal or in Windows using WSL2***
+***CRUSTDE - Containerized Rust Development Environment in Linux (in WSL2 on Windows or on bare metal)***
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready-for-use](https://img.shields.io/badge/ready_for_use-green)
