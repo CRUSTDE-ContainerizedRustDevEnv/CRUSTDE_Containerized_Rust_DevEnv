@@ -11,6 +11,9 @@
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
  CRUSTDE-ContainerizedRustDevEnv is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) together.
 
+Hashtags: #rustlang #tutorial  
+My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
+
 ## Install and config Windows and programs needed for Rust development
 
 Often we must reinstall windows from scratch to solve some unsolvable problems.  
