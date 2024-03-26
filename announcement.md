@@ -1,6 +1,6 @@
 # CRUSTDE - Containerized Rust Development Environment
 
-![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE-ContainerizedRustDevEnv/main/images/crustde_250x250.png)
+![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
 
 <https://github.com/CRUSTDE-ContainerizedRustDevEnv>
 
