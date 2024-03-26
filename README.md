@@ -25,7 +25,7 @@ I make acrobatics with files all day long. I could not live without TotalCommand
 ## Windows: Git, git-bash, SSH and VSCode
 
 These Windows utils I use for CRUSTDE: git, git-bash, SSH, VSCode.  
-[win_git_git-bash_ssh_VSCode](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/win_git_git-bash_ssh_VSCode)
+[win_git_git_bash_ssh_VSCode](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/win_git_git_bash_ssh_VSCode)
 
 ## Win10 contains WSL2 that contains Debian11
 
