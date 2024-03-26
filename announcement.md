@@ -1,8 +1,8 @@
 # CRUSTDE - Containerized Rust Development Environment
 
-![logo](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/CRUSTDE-Containerized-Rust-DevEnv/main/images/crustde_250x250.png)
+![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE-ContainerizedRustDevEnv/main/images/crustde_250x250.png)
 
-<https://github.com/CRUSTDE-Containerized-Rust-DevEnv>
+<https://github.com/CRUSTDE-ContainerizedRustDevEnv>
 
 This is an opinionated guide for beginners how to set up CRUSTDE - Containerized Rust Development Environment. The isolation of the container will not allow Rust code to mess with your primary system (FYI: this kind of isolation is good but not perfect).  
 
