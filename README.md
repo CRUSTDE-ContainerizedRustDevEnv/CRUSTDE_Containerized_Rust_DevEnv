@@ -15,7 +15,7 @@ Hashtags: #rustlang #tutorial
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
 
 I even created a YouTube video for a visual description of the installation process:
-[![CRUSTDE_install](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/CRUSTDE_install_634x356.jpg)](https://www.youtube.com/watch?list=PLbXDHfG-c3U8pkyN1D7SwF3ItA3uTyoWW&v=vvpFczMLQek)
+[![CRUSTDE_install](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/CRUSTDE_install_634x356.jpg)](https://bestia.dev/youtube/CRUSTDE_install.html)
 
 ## Install and config Windows and programs needed for Rust development
 
