@@ -14,3 +14,6 @@
 LICENSE text eol=lf
 .gitignore text eol=lf
 .gitattributes text eol=lf
+
+# Github’s Linguist tool: force Rust if Cargo.toml exists
+Cargo.toml linguist-language=Rust
