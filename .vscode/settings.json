@@ -18,6 +18,10 @@
     },
     "rust-analyzer.showUnlinkedFileNotification": false,
     "cSpell.words": [
+        "zcvf",
+        "thiserror",
+        "struct",
+        "endregion",
         "Alla",
         "bestia",
         "bestiadev",
