@@ -7,9 +7,12 @@
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready-for-use](https://img.shields.io/badge/ready_for_use-green)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
+ ![CRUSTDE_Containerized_Rust_DevEnv](https://bestia.dev/webpage_hit_counter/get_svg_image/762890740.svg)
 
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
  CRUSTDE-ContainerizedRustDevEnv is a "GitHub organization" that groups [multiple repositories](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) together.
+
+ [![Lines in md](https://img.shields.io/badge/Lines_in_markdown-111-green.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/)
 
 Hashtags: #rustlang #tutorial  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).

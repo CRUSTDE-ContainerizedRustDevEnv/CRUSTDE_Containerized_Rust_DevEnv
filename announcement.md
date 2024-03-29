@@ -32,5 +32,3 @@ https://users.rust-lang.org/t/rust-hack-without-fear-and-trust-a-complete-develo
 
 Subject:
 Announcing CRUSTDE - Containerized Rust Development Environment
-
-
