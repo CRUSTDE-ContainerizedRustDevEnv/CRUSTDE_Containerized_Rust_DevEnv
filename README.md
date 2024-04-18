@@ -59,9 +59,17 @@ Cross-compile Rust to Linux, Windows, Musl container, WASI and WASM with CRUSTDE
 
 ## File Workflow for backups for CRUSTDE
 
-Development files are important. We don't want to lose them because of a mishap. Some details abount my workflow for backup:
+Development files are important. We don't want to lose them because of a mishap. Some details about my workflow for backup:
 
 <https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive>
+
+## dash vs underscore madness
+
+GitHub does not allow underscores in the Organization name or Username.  
+This is because underscore cannot be used in internet domain names or subdomain names.  
+But it is allowed in repository names.  
+I prefer using underscore because of Rust naming conventions.  
+I will use underscore everywhere except where is not possible. There I will convert them to dashes or remove them.  
 
 ## Open-source and free as a beer
 
