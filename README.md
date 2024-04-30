@@ -63,6 +63,13 @@ Development files are important. We don't want to lose them because of a mishap.
 
 <https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive>
 
+## Docker hub authorization
+
+We need the access secret_token to push container images to docker hub. The original `podman login` stores the secret as plain text. This is a big no-no.  
+I encrypted the secret using the SSH private key.
+
+<https://github.com/CRUSTDE-ContainerizedRustDevEnv/ssh_auth_podman_push>
+
 ## dash vs underscore madness
 
 GitHub does not allow underscores in the Organization name or Username.  
