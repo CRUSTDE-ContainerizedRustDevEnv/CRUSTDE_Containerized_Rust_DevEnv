@@ -7,6 +7,7 @@
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready-for-use](https://img.shields.io/badge/ready_for_use-green)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
  ![CRUSTDE_Containerized_Rust_DevEnv](https://bestia.dev/webpage_hit_counter/get_svg_image/762890740.svg)
 
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
